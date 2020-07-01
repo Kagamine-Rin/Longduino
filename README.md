@@ -16,9 +16,9 @@ http://bigbits.oss-cn-qingdao.aliyuncs.com/Arduino_for_GD32V/package_longduino_i
 ## TODO List
 
 ### Arduino core
-wiring_digital.c
 
-#### pinMode
+#### wiring_digital.c
+* pinMode
 * ~~digitalWrite~~
 * ~~digitalRead~~ @Ldream
 * ~~digitalToggle~~ @Ldream
